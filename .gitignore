@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Cache Kotlin & file sementara
+.kotlin/
+.fuse_hidden*
+
+# Folder cadangan lokal (tidak perlu di-upload)
+_backup_sebelum_supabase/
+_template_awal/
+
+# Dokumen UTS berisi NIM anggota kelompok (tidak untuk repo publik)
+README.txt
